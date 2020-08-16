@@ -100,7 +100,7 @@ tabline works and looks like.
 ### Options
 
 The following is the list of available options, that should be set in your
-Vimrc file, using `let <optiona-name> = <option-value>`:
+Vimrc file, using `let <option-name> = <option-value>`:
 
 * `g:buffet_always_show_tabline` - if set to `0`, the tabline will only be shown if
   there is more than one buffer or tab open.
